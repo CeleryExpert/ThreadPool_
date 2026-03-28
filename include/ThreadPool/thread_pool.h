@@ -2,6 +2,7 @@
 #include<thread>
 #include<vector>
 #include<queue>
+#include<atomic>
 #include "task.h"
 
 class ThreadPool{
